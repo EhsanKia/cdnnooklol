@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="700px" width="700px">
+  <polygon points="700,0 700,700 0,700" fill="yellow" style="fill-opacity: 0.5"/>
+  <polygon points="700,0 0,0 0,700" fill="red" style="fill-opacity: 0.5"/>
+  <path id="myTextPath" d="M 300,0 A 300,300 0 0 1 -300,0 A 300,300 0 0 1 300,0" transform="translate(350 350) rotate(-95)" fill="none"/>
+  <text style="stroke: #000000; font-size: 50px; font-family: Arial;" x="260" y="360">ОΟՕⵔଠ</text>
+  <text style="stroke: #000000; font-size: 33px; font-family: Arial;" fill="black" stroke-width="0">
+      <textPath xlink:href="#myTextPath"><tspan>ОⵔOOOOOOOOΟOOOOOOOOOOOOOOOOଠOOOOOOOOОՕOOOOOOOOOⵔOOOOOOOOଠOOOOOOOΟՕOOOOOOO</tspan></textPath>
+    </text>
+</svg>
